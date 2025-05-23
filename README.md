@@ -54,7 +54,8 @@
 - **ChatRoom / ChatMessage**: 상담 채팅 시스템
 - **Notice / EventPost / PopupNotice**: 공지, 이벤트, 팝업
 
-> 상세한 DDL 구조는 [shoebox_DDL wiki](https://github.com/dnjs0/shoebox/wiki) 을 참조해주세요.
+> 상세한 DDL 구조는 [ShoeBox-DDL wiki](https://github.com/dnjs0/shoebox/wiki/ShoeBox-DDL) 을 참조해주세요.
+
 
 ---
 
