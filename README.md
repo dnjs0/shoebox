@@ -8,7 +8,7 @@
 **모바일 환경까지 고려한 반응형 구성**을 목표로 개발했습니다.
 
 > \[화면사진: 메인 페이지]
-> ![screencapture-localhost-8090-main-2025-05-26-10_16_53](https://github.com/user-attachments/assets/b47d489a-eacf-439d-b8c0-1756294d54d9)
+> ![screencapture-localhost-8090-main](https://github.com/user-attachments/assets/c33daf6e-1ca3-4d8d-82c7-82533c648a14)
 
 > \[화면사진: 상품 상세 페이지]
 > ![screencapture-localhost-8090-main-detailpage-cut](https://github.com/user-attachments/assets/50c7ef84-b9c1-4a62-b6f9-96bf7bfe7472)
@@ -164,8 +164,15 @@ shoebox/
 
 ## 👟 시연 화면
 
-> \[화면사진: 주문 검색]
-> \[화면사진: 관리자 사이드바 구조]
+> \[화면사진: 관리자 주문 검색]
+> ![관리자_주문검색](https://github.com/user-attachments/assets/09bdcad7-717b-4bff-834c-313727732ce8)
+
+> \[화면사진: 관리자 주문 목록 내보내기]
+> ![관리자_주문목록내보내기](https://github.com/user-attachments/assets/44830368-b562-4fed-b158-9c31e8845ea5)
+
+> \[화면사진: 관리자 주문 취소]
+> ![관리자_주문취소](https://github.com/user-attachments/assets/abf12e6c-2a85-4fbb-a196-0f4d0a0faa80)
+
 
 ---
 
